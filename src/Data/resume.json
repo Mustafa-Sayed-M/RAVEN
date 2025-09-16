@@ -1,0 +1,56 @@
+{
+    "education": [
+        {
+            "name": "Tourism and Hotels Institute (4-year program)",
+            "jobTitle": "Student",
+            "yearIn": "2022",
+            "yearOut": "2026"
+        },
+        {
+            "name": "Self-Learning",
+            "jobTitle": "Frontend Development (React.js, TailwindCSS, Redux, Strapi, Clerk)",
+            "yearIn": "2022",
+            "yearOut": "Present"
+        },
+        {
+            "name": "Online Courses (Udemy / FreeCodeCamp)",
+            "jobTitle": "JavaScript, React.js, Git & GitHub",
+            "yearIn": "2023",
+            "yearOut": "2024"
+        }
+    ],
+    "experience": [
+        {
+            "name": "Arkan Construction Company",
+            "jobTitle": "Ironworker",
+            "yearIn": "2024",
+            "yearOut": "2025"
+        },
+        {
+            "name": "Freelance / Self Projects",
+            "jobTitle": "Frontend Developer",
+            "yearIn": "2022",
+            "yearOut": "Present"
+        },
+        {
+            "name": "Open Source Contributions",
+            "jobTitle": "Frontend Developer (React.js)",
+            "yearIn": "2024",
+            "yearOut": "Present"
+        }
+    ],
+    "pastRoles": [
+        {
+            "name": "Ironworker Trainee",
+            "jobTitle": "Construction Field Worker",
+            "yearIn": "2023",
+            "yearOut": "2025"
+        },
+        {
+            "name": "Junior Assistant",
+            "jobTitle": "Part-time Helper (Retail/Service Job)",
+            "yearIn": "2022",
+            "yearOut": "Present"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "socialLinks": [
+        {
+            "link": "https://www.facebook.com/sh3dowone1/",
+            "name": "Facebook",
+            "fontAwesomeIcon": {
+                "type1": "facebook",
+                "type2": "facebook-f"
+            }
+        },
+        {
+            "link": "https://www.instagram.com/sh3dowone1/",
+            "name": "Instagram",
+            "fontAwesomeIcon": {
+                "type1": "instagram",
+                "type2": "square-instagram"
+            }
+        },
+        {
+            "link": "https://www.linkedin.com/in/sh3dowone1/",
+            "name": "Linkedin",
+            "fontAwesomeIcon": {
+                "type1": "linkedin",
+                "type2": "linkedin-in"
+            }
+        },
+        {
+            "link": "https://github.com/Mustafa-Sayed-M",
+            "name": "github",
+            "fontAwesomeIcon": {
+                "type1": "github",
+                "type2": "square-github"
+            }
+        },
+        {
+            "link": "https://x.com/sh3dowone1",
+            "name": "X-Twitter",
+            "fontAwesomeIcon": {
+                "type1": "x-twitter",
+                "type2": "square-x-twitter"
+            }
+        }
+    ],
+    "contactInfo": {
+        "location": {
+            "mapLink": "https://www.google.com/maps/place/Kafr+Hamza,+Al+Khankah,+Al-Qalyubia+Governorate/@30.2297981,31.3233489,16z/data=!3m1!4b1!4m6!3m5!1s0x1458124769fc74f9:0xd26dba9c8fbbb476!8m2!3d30.2324261!4d31.3270841!16s%2Fg%2F1v0bvxz6?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+            "name": "Location",
+            "fontAwesomeIcon": {
+                "regular": "map",
+                "solid": "location-dot"
+            }
+        },
+        "phone": {
+            "whatsappLink": "https://wa.link/o6eo6f",
+            "phoneNumber": "+20 01122124968",
+            "name": "Phone",
+            "fontAwesomeIcon": {
+                "regular": "headphones",
+                "solid": "phone"
+            }
+        },
+        "email": {
+            "value": "mustafacoder9@gmail.com",
+            "name": "Email",
+            "fontAwesomeIcon": {
+                "regular": "envelope",
+                "solid": "envelope"
+            }
+        }
+    }
+}

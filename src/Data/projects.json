@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Web App - Media Streaming",
+        "name": "Stream Vibe",
+        "description": "About Stream Vibe is a media streaming web application built with React and TailwindCSS, inspired by modern OTT platforms. The app allows users to explore movies, TV shows, subscription plans, and more — powered by the TMDB API.",
+        "githubUrl": "https://github.com/Mustafa-Sayed-M/Stream-Vibe",
+        "liveDemoUrl": "https://stream-vibe-sand.vercel.app/",
+        "techs": [
+            {
+                "id": 1,
+                "name": "React",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/cfksp1hc2cklbelz5spm.svg"
+            },
+            {
+                "id": 2,
+                "name": "Tailwind CSS",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/vm7eiluqugctrhbgd9sw.svg"
+            }
+        ],
+        "thumbnail": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757916794/Thumnail_1_cpo3bv.png"
+    },
+    {
+        "id": 2,
+        "title": "Web App - Healthy Diet",
+        "name": "Nutritionist",
+        "description": "Nutritionist is a modern and responsive healthy diet planning website built with React.js, TailwindCSS, and Vite. It includes pages for About, Blogs, Team, Pricing, and Testimonials, with data managed via JSON. Inspired by a professional Figma design.",
+        "githubUrl": "https://github.com/Mustafa-Sayed-M/Nutritionist",
+        "liveDemoUrl": "https://nutritionist-cyan.vercel.app/",
+        "techs": [
+            {
+                "id": 1,
+                "name": "React",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/cfksp1hc2cklbelz5spm.svg"
+            },
+            {
+                "id": 2,
+                "name": "Tailwind CSS",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/vm7eiluqugctrhbgd9sw.svg"
+            }
+        ],
+        "thumbnail": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757916796/Thumnail_qaqofa.png"
+    },
+    {
+        "id": 3,
+        "title": "Web App - Real State",
+        "name": "Estatein",
+        "description": "A modern real estate website built with React, Tailwind CSS, and Vite. This project showcases properties, services, and other real estate-related content using static JSON files as a data source. It demonstrates clean code architecture, reusable components, and organized project structure — perfect for portfolio and learning purposes.",
+        "githubUrl": "https://github.com/Mustafa-Sayed-M/Estatein",
+        "liveDemoUrl": "https://estatein-bice.vercel.app/",
+        "techs": [
+            {
+                "id": 1,
+                "name": "React",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/cfksp1hc2cklbelz5spm.svg"
+            },
+            {
+                "id": 2,
+                "name": "Tailwind CSS",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/vm7eiluqugctrhbgd9sw.svg"
+            }
+        ],
+        "thumbnail": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757917084/Thumbnail_i7ldn6.png"
+    },
+    {
+        "id": 4,
+        "title": "Web App - E-learning",
+        "name": "Skillbridge",
+        "description": "React-based UI project for an online course and e-learning platform. Designed from a Figma template and built with modern frontend technologies.",
+        "githubUrl": "https://github.com/Mustafa-Sayed-M/Skillbridge",
+        "liveDemoUrl": "https://skillbridge-sable-iota.vercel.app/",
+        "techs": [
+            {
+                "id": 1,
+                "name": "React",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/cfksp1hc2cklbelz5spm.svg"
+            },
+            {
+                "id": 2,
+                "name": "Tailwind CSS",
+                "icon": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/vm7eiluqugctrhbgd9sw.svg"
+            }
+        ],
+        "thumbnail": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1757917083/Thumnail_2_mb3sgi.png"
+    }
+]

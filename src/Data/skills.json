@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "level": "90",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007070/My%20Portfolio/Skills/asdm8f6r9h2eznue3rb4.svg"
+    },
+    {
+        "id": 2,
+        "name": "Css",
+        "level": "85",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007070/My%20Portfolio/Skills/u7zy73oa7okwodwpoeh2.svg"
+    },
+    {
+        "id": 3,
+        "name": "Java Script",
+        "level": "85",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007070/My%20Portfolio/Skills/qn5l53vkissj2rubi0mh.svg"
+    },
+    {
+        "id": 4,
+        "name": "Github",
+        "level": "80",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/x03crzcjnblpdwlgw7z8.svg"
+    },
+    {
+        "id": 5,
+        "name": "Bootstrap",
+        "level": "80",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007070/My%20Portfolio/Skills/xxbttofihtpngkkffpus.svg"
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "level": "90",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/cfksp1hc2cklbelz5spm.svg"
+    },
+    {
+        "id": 7,
+        "name": "Tailwind Css",
+        "level": "90",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007072/My%20Portfolio/Skills/vm7eiluqugctrhbgd9sw.svg"
+    },
+    {
+        "id": 8,
+        "name": "Redux",
+        "level": "80",
+        "iconUrl": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1748007071/My%20Portfolio/Skills/fzilsz4luhblg65i4f2h.svg"
+    }
+]

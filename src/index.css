@@ -1,0 +1,98 @@
+@import "tailwindcss";
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@utility container {
+    margin-inline: auto;
+    padding-inline: 2rem;
+}
+
+@theme {
+    --color-primary-purple: #8652fb;
+    --color-dark-bg: #0f0715;
+    --color-dark-surface: #140c1c;
+    --color-text-light: #dddddd;
+    --color-purple-dark: #2a1454;
+    --color-gray-medium: #636363;
+    --color-gray-muted: #747779;
+
+    --color-bg-light: #f6f3fc;
+    --color-gray-soft: #d9d9d9;
+    --color-text-dark: #140c1c;
+}
+
+/* # Sora Font # */
+/* Regular */
+@font-face {
+    font-family: 'Sora';
+    src: url('/fonts/sora/Sora-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Semibold */
+@font-face {
+    font-family: 'Sora';
+    src: url('/fonts/sora/Sora-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Sora';
+    src: url('/fonts/sora/Sora-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global */
+html,
+body {
+    scroll-behavior: smooth;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    scrollbar-color: var(--color-primary-purple) var(--color-purple-dark);
+    scrollbar-width: thin;
+}
+
+button {
+    cursor: pointer;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+p {
+    color: var(--color-text-dark);
+}
+
+html[data-theme="dark"] p {
+    color: var(--color-text-light);
+}
+
+/* Custom Selection */
+::selection {
+    color: white;
+    background-color: var(--color-primary-purple);
+}
+
+/* Scroll Padding Top */
+html,
+body {
+    scroll-padding-top: 105px;
+}
+
+@media (min-width: 1280px) {
+
+    html,
+    body {
+        scroll-padding-top: 113px;
+    }
+}
