@@ -2,7 +2,7 @@ function ResumeDownload() {
     return (
         <a
             target="_blank"
-            href="https://drive.google.com/file/d/1MzacpfmltVPtS79411LfDAZoObOIddaf/view?usp=sharing"
+            href="https://drive.google.com/file/d/1zk4X6MQ_mrwQSgbIPi4rGZ6IDQ9n9Q75/view?usp=sharing"
             className="flex items-center gap-2 py-2 xl:py-4 px-4 xl:px-6 rounded-full bg-primary-purple text-white font-medium text-nowrap group"
         >
             <span>Resume</span>
