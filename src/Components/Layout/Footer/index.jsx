@@ -10,7 +10,7 @@ function Footer() {
                 {/* Fast Links */}
                 <FastLinks className="mb-5" />
                 {/* Copyrights */}
-                <p className="text-center transition">© 2025 All Rights Reserved by <span className="bg-primary-purple ms-1 rounded-sm py-0.5 px-3 max-sm:mt-1 inline-block text-white transition">MUSTAFA SAYED</span></p>
+                <p className="text-center transition">© 2025 All Rights Reserved by <a href="https://github.com/Mustafa-Sayed-M" target="_blank" className="bg-primary-purple ms-1 rounded-sm py-0.5 px-3 max-sm:mt-1 inline-block text-white transition sm:hover:bg-primary-purple/70">MUSTAFA SAYED</a></p>
             </div>
         </footer>
     )
